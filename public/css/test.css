@@ -1,0 +1,37 @@
+.product{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.images{
+    width: 600px;
+    margin: 50px;
+}
+
+.ui.large.rounded.image{
+    margin-bottom : 20px;
+    width: 500px;
+}
+
+.content{
+    width : 600px;
+    margin: 50px;
+    font-size: 20px;
+}
+
+.description{
+    margin-top: 30px;
+}
+
+.quantité{
+    margin-top: 20px;
+}
+
+.price{
+    margin-top: 40px;
+}
+
+.buy{
+    margin-top: 40px;
+}
